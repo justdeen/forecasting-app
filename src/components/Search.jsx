@@ -67,7 +67,7 @@ export default function App({navElements}) {
   return (
     <div style={{padding: 20}} className="search">
       <h1 className="title" style={{marginBottom: "20px"}}>
-        Weather App
+        Forecast App
       </h1>
       <form onSubmit={onSearch}>
         <div className="form">
